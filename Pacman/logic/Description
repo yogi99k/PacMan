@@ -1,0 +1,4 @@
+In this project, you will use/write simple Python functions that generate logical sentences
+describing Pacman physics, aka pacphysics, and the game Clue. You will use a SAT solver,
+pycosat, to solve the logical inference tasks associated with planning (generating action
+sequences to reach goal locations) and playing Clue.
